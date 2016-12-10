@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="998b8f56-8b5f-49c3-b993-ca67f407dca7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/files/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-blue-alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-color-hole.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-color-hole.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-rainbow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-red-spot-half-cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-red-spot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-red-transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-rgbyg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x100-square-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/100x50-rgbt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/75x25-gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/IMG_20100101_025858.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/actually-a-png.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/arrows-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/arrows-normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg-header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/crop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/dialogs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/director.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/fakeimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/fgnl-bmp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/fgnl.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/fgnl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/icons-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/icons-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/plugins/Watermark/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/quicklook-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/quicklook-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/bmp/rainbow-16b-x.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/bmp/rainbow-16b.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/bmp/rainbow-24b.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/bmp/rainbow-32b.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/bmp/rainbow-palette-rle.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/resize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/sounds/rm.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/shadow-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/spinner-mini.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/splat.tga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/images/ui-icons_444444_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/images/ui-icons_555555_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/images/ui-icons_777620_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/images/ui-icons_777777_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/images/ui-icons_cc0000_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/resources/video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/vk-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/volume_icon_dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/volume_icon_ftp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/volume_icon_googledrive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/volume_icon_local.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/img/volume_icon_sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/yt-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/AbstractController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/AbstractModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/AddNoise.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/admin/AdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/AppController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/ApplyConvolution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/ApplyConvolutionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/ApplyFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/ApplyFilterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/ApplyMask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/ApplyMaskTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/AsGrayscale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/AsGrayscaleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/AsNegative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/AsNegativeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/Auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/AuthController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/AutoCrop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/AutoCrop.test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Mapper/BMP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/vendor/de77/BMP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Mapper/BMPTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Canvas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/CanvasTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/Changelog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Coordinate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/CoordinateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/CopyChannelsPalette.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/CopyChannelsTrueColor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/CorrectGamma.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/CorrectGammaTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/Crop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/CropTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/DataBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/Errors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/Flip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/FlipTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Mapper/GD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Mapper/GD2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Mapper/GD2Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Font/GDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Mapper/GDTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Mapper/GIF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Mapper/GIFTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/libs/GdBmp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/GetChannelsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/GetMask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/GetMaskTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/ImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Mapper/JPEG.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Mapper/JPEGTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/MapperFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/MapperFactoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/admin/MenuController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/MenuItems.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/Merge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/MergeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/Mirror.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/MirrorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/MySQLStorage.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/OperationFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/OperationFactoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Mapper/PNG.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Mapper/PNGTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Font/PS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/PageController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/admin/PageController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/PaletteImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/PaletteImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/Resize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/ResizeCanvas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/ResizeCanvasTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/ResizeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/Rotate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/RotateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/RoundCorners.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/RoundCornersTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Mapper/TGA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/vendor/de77/TGA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Mapper/TGATest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Font/TTF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/TrueColorImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/TrueColorImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/Operation/Unsharp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/Operation/UnsharpTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/UserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Users.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/core/View.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lib/WideImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/tests/WideImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/pages/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/connector.minimal.php-dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinder.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderConnector.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderFlysystemGoogleDriveNetmount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderSessionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/proxy/elFinderSupportVer1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderVolumeDriver.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderVolumeDropbox.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderVolumeFTP.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderVolumeGroup.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderVolumeLocalFileSystem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/elFinderVolumeMySQL.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.LANG.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/css/elfinder.full.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/elfinder.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/css/elfinder.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/elfinder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/elfinder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.ug_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/i18n/elfinder.zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fileinput.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fileinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fileinput_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/libs/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fw31.loc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/gpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/image-actually-foo.foo2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/images/image.foo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/menu/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/jquery-ui.structure.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-ui/jquery-ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.liTranslit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/lgpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/pages/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/plugins/AutoResize/plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/plugins/AutoRotate/plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/plugins/Normalizer/plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/plugins/Sanitizer/plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/php/plugins/Watermark/plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/js/extras/quicklook.googledocs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/run.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/soutlink/wideimage/test/test-init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/elFinder/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/pages/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="fw31.loc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>C:\xampp\htdocs\nutrilite.loc\composer.json</pharConfigPath>
+    <pharPath>C:\bin\composer\composer.phar</pharPath>
+    <phpPath>C:\xampp\php\php.exe</phpPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="fw31.loc" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="C:/xampp/htdocs/nutrilite.loc/vendor/composer" />
+      <path value="C:/xampp/htdocs/nutrilite.loc/vendor/imagine/imagine" />
+      <path value="C:/xampp/htdocs/nutrilite.loc/vendor/phpoffice/phpexcel" />
+      <path value="C:/xampp/htdocs/nutrilite.loc/vendor/kartik-v/bootstrap-fileinput" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fw31.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fw31.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fw31.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="vcs" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="998b8f56-8b5f-49c3-b993-ca67f407dca7" name="Default" comment="" />
+      <created>1481370606328</created>
+      <option name="number" value="Default" />
+      <updated>1481370606328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.330781" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
+

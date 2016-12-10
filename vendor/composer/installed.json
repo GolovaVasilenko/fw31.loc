@@ -1,0 +1,33 @@
+[
+    {
+        "name": "soutlink/wideimage",
+        "version": "v1.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/soutlink/wideimage.git",
+            "reference": "c942937c1d5ec1477f821d5ce6e2d914b8bbb34e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/soutlink/wideimage/zipball/c942937c1d5ec1477f821d5ce6e2d914b8bbb34e",
+            "reference": "c942937c1d5ec1477f821d5ce6e2d914b8bbb34e",
+            "shasum": ""
+        },
+        "time": "2015-04-29 08:53:52",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "WideImage": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0",
+            "LGPL-2.1"
+        ],
+        "description": "An open-source PHP library for image manipulation. (With namespaces, PHP 5.3+)",
+        "homepage": "http://wideimage.sourceforge.net"
+    }
+]

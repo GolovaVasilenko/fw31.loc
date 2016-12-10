@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7ed437a5519e9bf320d84816dc33dd68",
+    "content-hash": "123821eb5c0afdb29c83c61a24ebf004",
+    "packages": [
+        {
+            "name": "soutlink/wideimage",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/soutlink/wideimage.git",
+                "reference": "c942937c1d5ec1477f821d5ce6e2d914b8bbb34e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/soutlink/wideimage/zipball/c942937c1d5ec1477f821d5ce6e2d914b8bbb34e",
+                "reference": "c942937c1d5ec1477f821d5ce6e2d914b8bbb34e",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "WideImage": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0",
+                "LGPL-2.1"
+            ],
+            "description": "An open-source PHP library for image manipulation. (With namespaces, PHP 5.3+)",
+            "homepage": "http://wideimage.sourceforge.net",
+            "time": "2015-04-29 08:53:52"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
