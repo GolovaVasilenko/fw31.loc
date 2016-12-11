@@ -13,12 +13,20 @@ class MenuController extends AdminController
         parent::__construct($route);
     }
 
+    /**
+     * @return void
+     * render main template for create and update menu
+     */
     public function indexAction()
     {
         $this->view->listMenu = Menu::findAll();
         $this->view->display('admin/menu/index');
     }
 
+    /***
+     * @return void
+     * create menu group
+     */
     public function addAction()
     {
         if($this->request->post('add_menu', null)){
