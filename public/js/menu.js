@@ -32,7 +32,7 @@ $(document).ready(function(){
                     if(data){
                         if('undefined' !== data){
                             $.each(data, function(index, value){
-                                dataHtml += '<li id="'+value.id+'-'+value.position+'" class="line-item">'+value.title+' <a href="/admin/menu/update-item?id='+value.id+'" >[редактировать]</a></li>';
+                                dataHtml += '<li id="'+value.id+'" class="line-item">'+value.title+' <a href="/admin/menu/update-item?id='+value.id+'" >[редактировать]</a></li>';
                             });
 
                             $('.menu-items').html(dataHtml);
