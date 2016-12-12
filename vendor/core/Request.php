@@ -28,8 +28,9 @@ class Request
     }
 
     public function ispost(){
-        if($_SERVER['REQUEST_METHOD'] == 'POST'){
+        if($_SERVER['REQUEST_METHOD'] == 'POST' && !empty($_POST)){
             return $_POST;
         }
+        return [];
     }
 } 
