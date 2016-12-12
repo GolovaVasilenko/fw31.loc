@@ -3,7 +3,22 @@
     padding: 10px;
 }
 
-.menu-items {
+.list-menu li {
+    padding: 10px;
+    list-style: none;
+    background-color: #fff;
+    border: 1px #ddd solid;
+    position: relative;
+}
+.list-menu li .menu_delete {
+    position: absolute;
+    right: 20px;
+}
+.list-menu li .add_item_menu {
+    position: absolute;
+    right: 100px;
+}
+/*.menu-items {
     background-color: #eee;
     padding: 10px;
     margin-top: 20px;
@@ -17,4 +32,4 @@
 }
 .line-item a {
     margin-left: 50px;
-}
+}*/
