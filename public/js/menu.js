@@ -19,40 +19,10 @@ $(document).ready(function(){
         return false;
     });
 
-    $('#menu_select').on('change', function(){
-        var menuSelected = parseInt($(this).val());
-        if(menuSelected > 0){
-            $('.buttons_items_menu').show();
-            $.ajax({
-                type: 'POST',
-                url: '/admin/menu/items-menu',
-                data: {'menu_id': menuSelected},
-                dataType: 'json',
-                success: function(data){
-                    var dataHtml = '';
-                    if(data){
-                        if('undefined' !== data){
-                            $.each(data, function(index, value){
-                                dataHtml += '<li id="'+value.id+'" class="line-item">'+value.title+' <a href="/admin/menu/update-item?id='+value.id+'" >[редактировать]</a></li>';
-                            });
-
-                            $('.menu-items').html(dataHtml);
-                        }
-                        else
-                            $('.menu-items').html("<li>Элементов Меню пока нет...</li>");
-                    }
-                }
-            });
-        }
-        else{
-            $('.buttons_items_menu').hide();
-        }
-        return false;
-    });
 
     $('.menu_delete').on('click', function(e){
         e.preventDefault();
-        var menuSelected = parseInt($('#menu_select').val());
+        var menuSelected = parseInt($(this).data('id'));
         $.ajax({
             type: 'POST',
             url: '/admin/menu/delete',
@@ -63,23 +33,24 @@ $(document).ready(function(){
                 }
             }
         });
-
-        $("#sortable_menu").sortable({
-            'items': 'li',
-            update: function( event, ui ) {
-                var order = $(this).sortable('toArray');
-                $.ajax({
-                    url: '/admin/position/update',
-                    data: {'sortable': order, timestamp: $.now(), 'cat_id': cat_id, 'type_id': type_id},
-                    type: 'post',
-                    success: function(data){
-                        //console.log(data);
-                    }
-                });
-            }
-        });
         return false;
     });
+
+    $("#sortable").sortable({
+        'items': 'li',
+        update: function( event, ui ) {
+            var order = $(this).sortable('toArray');
+            $.ajax({
+                url: '/admin/position/update',
+                data: {'sortable': order, timestamp: $.now(), 'cat_id': cat_id, 'type_id': type_id},
+                type: 'post',
+                success: function(data){
+                    //console.log(data);
+                }
+            });
+        }
+    });
+    $( "#sortable" ).disableSelection();
 
     $('#item_link_type').on('change', function(){
         var type_link = $(this).val();
@@ -125,6 +96,8 @@ $(document).ready(function(){
         });
         return false;
     });
+
+
 });
 
 function get_pages(ctrl){
