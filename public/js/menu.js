@@ -16,6 +16,7 @@ $(document).ready(function(){
                 window.location.href = "/admin/menu";
             }
         });
+        return false;
     });
 
     $('#menu_select').on('change', function(){
@@ -46,6 +47,7 @@ $(document).ready(function(){
         else{
             $('.buttons_items_menu').hide();
         }
+        return false;
     });
 
     $('.menu_delete').on('click', function(e){
@@ -63,11 +65,20 @@ $(document).ready(function(){
         });
 
         $("#sortable_menu").sortable({
+            'items': 'li',
             update: function( event, ui ) {
-
+                var order = $(this).sortable('toArray');
+                $.ajax({
+                    url: '/admin/position/update',
+                    data: {'sortable': order, timestamp: $.now(), 'cat_id': cat_id, 'type_id': type_id},
+                    type: 'post',
+                    success: function(data){
+                        //console.log(data);
+                    }
+                });
             }
         });
-
+        return false;
     });
 
     $('#item_link_type').on('change', function(){
@@ -86,16 +97,19 @@ $(document).ready(function(){
                 get_category(type_link)
                 break;
         }
+        return false;
     });
 
     $('#select_materials').on('change', function(){
         var url = $(this).val();
         $('#item_link').val(url);
+        return false;
     });
 
     $('.add_item_menu').on('click', function(){
         var menuSelected = parseInt($('#menu_select').val());
         $('#item_menu_id').val(menuSelected);
+        return false;
     });
 
     $('#saveItem').on('click', function(){
@@ -109,6 +123,7 @@ $(document).ready(function(){
                     location.reload();
             }
         });
+        return false;
     });
 });
 
@@ -126,6 +141,7 @@ function get_pages(ctrl){
             $('#select_materials').append(dataHtml);
         }
     });
+    return false;
 }
 function get_rubrics(ctrl){
 
