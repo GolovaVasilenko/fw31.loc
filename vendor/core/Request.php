@@ -27,6 +27,16 @@ class Request
         return $this->array_get($_SERVER, $key, $default);
     }
 
+    public function file($key, $name = null, $default = [])
+    {
+        if(!empty($name) && !empty($_FILES[$key][$name]))
+            return $_FILES[$key][$name];
+        elseif(empty($name) && !empty($_FILES[$key]))
+            return $_FILES[$key];
+        else
+            return $default;
+    }
+
     public function ispost(){
         if($_SERVER['REQUEST_METHOD'] == 'POST' && !empty($_POST)){
             return $_POST;
