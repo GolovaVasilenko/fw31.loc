@@ -81,4 +81,9 @@ class MenuController extends AdminController
         }
         return false;
     }
+
+    public function itemsMenuUpdateAction()
+    {
+        $post = $this->request->ispost();
+    }
 } 
