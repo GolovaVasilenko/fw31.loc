@@ -11,7 +11,7 @@
     <link href="/public/css/bootstrap.min.css" rel="stylesheet">
     <!-- Latest compiled and minified CSS -->
     <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"-->
-    <link rel="stylesheet" href="/public/jquery-ui/jquery-ui.css" >
+    <link rel="stylesheet" href="/public/js/jquery-ui/jquery-ui.min.css" >
     <link rel="stylesheet" href="/public/css/fileinput.min.css" >
     <link rel="stylesheet" href="/public/css/admin.css" >
 
@@ -145,13 +145,14 @@
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-<!--script src="/public/js/plugins/canvas-to-blob.min.js" type="text/javascript"></script-->
+<!--script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script-->
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="/public/js/fileinput.min.js" type="text/javascript"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/public/js/jquery.liTranslit.js"></script>
 <script src="/public/js/bootstrap.min.js"></script>
-<scrip src="/public/jquery-ui/jquery-ui.min.js"></scrip>
+<!--scrip src="/public/js/jquery-ui/jquery-ui.min.js"></scrip-->
 <!-- Latest compiled and minified JavaScript -->
 <!--script src="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/js/jasny-bootstrap.min.js"></script-->
 <script src="/public/js/fileinput_locale_ru.js"></script>
